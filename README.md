@@ -1,5 +1,10 @@
 ### Tarefa referente ao bootcamp da Digital Innovation One
 
+#### Swagger da aplicação
+
+![image](https://user-images.githubusercontent.com/41808527/118381913-445c8c00-b5c6-11eb-9fcf-50a268cf7999.png)
+
+
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
@@ -36,5 +41,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 * [Site oficial do Swagger](https://swagger.io/tools/swagger-ui/)
+
 
 
